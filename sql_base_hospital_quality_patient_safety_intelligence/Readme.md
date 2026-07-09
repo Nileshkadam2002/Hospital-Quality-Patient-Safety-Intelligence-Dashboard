@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00d9ff&height=200&section=header&text=Data%20Science%20Notes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Interactive%20classroom-quality%20Jupyter%20Notebooks%20for%20Machine%20Learning&descSize=18&descAlignY=55&descColor=58a6ff)
+![Hospital Dashboard Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0284c7,100:0ea5e9&height=220&section=header&text=Hospital%20Quality%20%26%20Patient%20Safety&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Intelligence%20Dashboard%20%7C%20Clinical%20Metrics%20%26%20Performance%20Analytics&descSize=16&descAlignY=60&descColor=e2e8f0)
 <div align="center">
 
 # 🏥 Hospital Quality & Patient Safety Intelligence Dashboard
