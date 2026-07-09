@@ -13,7 +13,7 @@
 # 🏥 Hospital Quality & Patient Safety Intelligence Dashboard
 ### Healthcare Analytics | SQL • Python • Power BI • CMS Open Data
 
-### Healthcare Analytics | SQL • Python • Power BI • CMS Open Data
+
 
 <img src="https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python">
 <img src="https://img.shields.io/badge/PostgreSQL-SQL-blue?style=for-the-badge&logo=postgresql">
