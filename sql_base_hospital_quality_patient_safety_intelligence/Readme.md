@@ -1,5 +1,5 @@
 <div align="center">
-
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00d9ff&height=200&section=header&text=Data%20Science%20Notes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Interactive%20classroom-quality%20Jupyter%20Notebooks%20for%20Machine%20Learning&descSize=18&descAlignY=55&descColor=58a6ff)
 # 🏥 Hospital Quality & Patient Safety Intelligence Dashboard
 
 ### Healthcare Analytics | SQL • Python • Power BI • CMS Open Data
