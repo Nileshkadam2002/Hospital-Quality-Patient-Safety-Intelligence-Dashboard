@@ -306,21 +306,7 @@ images/
 └── state_analysis.png
 ```
 
-Example:
 
-```markdown
-## Executive Dashboard
-
-![Executive Dashboard](images/executive_dashboard.png)
-
----
-
-## Patient Safety Dashboard
-
-![Patient Safety](images/patient_safety.png)
-```
-
----
 
 # 📁 Project Structure
 
